@@ -1,3 +1,5 @@
+Alunos: Paulo Victor Moura Neves Gouveia e João Matheus Cabral  / MA 2517383 / MA 2512894
+
 # Mini App – GitFlow (Equipe XX)
 
 Aplicação simples em **HTML/CSS/JS** usada para praticar **Git, GitHub e GitFlow** sem Pull Requests.
